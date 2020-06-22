@@ -1,0 +1,9 @@
+INDEX VERSION 1.130+D:\USQA-Eclipse\zipal.in\.metadata\.plugins\org.eclipse.jdt.core
+3724025082.index
+3300552959.index
+1646204807.index
+4248258441.index
+2287835748.index
+1954045241.index
+209267134.index
+3506625510.index

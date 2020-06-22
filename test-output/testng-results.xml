@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching chrome browser....]]>
+    </line>
+    <line>
+      <![CDATA[Opening url....]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to Desktops....]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to Mac Page...]]>
+    </line>
+    <line>
+      <![CDATA[Verifying page]]>
+    </line>
+    <line>
+      <![CDATA[Page verified, desired product page is open]]>
+    </line>
+    <line>
+      <![CDATA[
+Addding iMac to cart]]>
+    </line>
+    <line>
+      <![CDATA[Verifying cart button & in Cart button number of item and price is getting reflected]]>
+    </line>
+    <line>
+      <![CDATA[Cart verified, added item is reflecting in cart]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Phones&PDAs link on page]]>
+    </line>
+    <line>
+      <![CDATA[Link found, link ‘Phones & PDAs’ is displayed on page]]>
+    </line>
+    <line>
+      <![CDATA[Number of products getting displayed on page are correct]]>
+    </line>
+    <line>
+      <![CDATA[
+Addding iPhone to cart]]>
+    </line>
+    <line>
+      <![CDATA[Cart is showing updated quantity & price.]]>
+    </line>
+    <line>
+      <![CDATA[Verifying cart]]>
+    </line>
+    <line>
+      <![CDATA[Items verified in cart]]>
+    </line>
+    <line>
+      <![CDATA[Opening shopping cart page...]]>
+    </line>
+    <line>
+      <![CDATA[Updating iMac quantity on shopping cart page...]]>
+    </line>
+    <line>
+      <![CDATA[Cart updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[iMac quantity is updated]]>
+    </line>
+    <line>
+      <![CDATA[Removing iPhone from cart]]>
+    </line>
+    <line>
+      <![CDATA[iPhone removed from cart]]>
+    </line>
+    <line>
+      <![CDATA[Cart is updated and Removed product is not listed in cart]]>
+    </line>
+    <line>
+      <![CDATA[Cart button is updated with new item count and price]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36983" started-at="2020-06-22T09:56:24Z" finished-at="2020-06-22T09:57:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36983" started-at="2020-06-22T09:56:24Z" finished-at="2020-06-22T09:57:01Z">
+      <class name="verifyCartFunctionality.VerifyCart">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="beforeMethod" is-config="true" duration-ms="11462" started-at="2020-06-22T15:26:24Z" finished-at="2020-06-22T15:26:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching chrome browser....]]>
+            </line>
+            <line>
+              <![CDATA[Opening url....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyCart()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="verifyCart" duration-ms="25322" started-at="2020-06-22T15:26:35Z" finished-at="2020-06-22T15:27:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to Desktops....]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to Mac Page...]]>
+            </line>
+            <line>
+              <![CDATA[Verifying page]]>
+            </line>
+            <line>
+              <![CDATA[Page verified, desired product page is open]]>
+            </line>
+            <line>
+              <![CDATA[
+Addding iMac to cart]]>
+            </line>
+            <line>
+              <![CDATA[Verifying cart button & in Cart button number of item and price is getting reflected]]>
+            </line>
+            <line>
+              <![CDATA[Cart verified, added item is reflecting in cart]]>
+            </line>
+            <line>
+              <![CDATA[Verifying Phones&PDAs link on page]]>
+            </line>
+            <line>
+              <![CDATA[Link found, link ‘Phones & PDAs’ is displayed on page]]>
+            </line>
+            <line>
+              <![CDATA[Number of products getting displayed on page are correct]]>
+            </line>
+            <line>
+              <![CDATA[
+Addding iPhone to cart]]>
+            </line>
+            <line>
+              <![CDATA[Cart is showing updated quantity & price.]]>
+            </line>
+            <line>
+              <![CDATA[Verifying cart]]>
+            </line>
+            <line>
+              <![CDATA[Items verified in cart]]>
+            </line>
+            <line>
+              <![CDATA[Opening shopping cart page...]]>
+            </line>
+            <line>
+              <![CDATA[Updating iMac quantity on shopping cart page...]]>
+            </line>
+            <line>
+              <![CDATA[Cart updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[iMac quantity is updated]]>
+            </line>
+            <line>
+              <![CDATA[Removing iPhone from cart]]>
+            </line>
+            <line>
+              <![CDATA[iPhone removed from cart]]>
+            </line>
+            <line>
+              <![CDATA[Cart is updated and Removed product is not listed in cart]]>
+            </line>
+            <line>
+              <![CDATA[Cart button is updated with new item count and price]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="afterMethod" is-config="true" duration-ms="180" started-at="2020-06-22T15:27:00Z" finished-at="2020-06-22T15:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- verifyCartFunctionality.VerifyCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

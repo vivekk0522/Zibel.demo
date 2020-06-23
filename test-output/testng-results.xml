@@ -76,12 +76,12 @@ Addding iPhone to cart]]>
       <![CDATA[Cart button is updated with new item count and price]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="36983" started-at="2020-06-22T09:56:24Z" finished-at="2020-06-22T09:57:01Z">
+  <suite name="Suite" duration-ms="50155" started-at="2020-06-23T08:29:45Z" finished-at="2020-06-23T08:30:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="36983" started-at="2020-06-22T09:56:24Z" finished-at="2020-06-22T09:57:01Z">
+    <test name="Test" duration-ms="50155" started-at="2020-06-23T08:29:45Z" finished-at="2020-06-23T08:30:36Z">
       <class name="verifyCartFunctionality.VerifyCart">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="beforeMethod" is-config="true" duration-ms="11462" started-at="2020-06-22T15:26:24Z" finished-at="2020-06-22T15:26:35Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@51565ec2]" name="beforeMethod" is-config="true" duration-ms="20288" started-at="2020-06-23T13:59:45Z" finished-at="2020-06-23T14:00:06Z">
           <reporter-output>
             <line>
               <![CDATA[Launching chrome browser....]]>
@@ -91,7 +91,7 @@ Addding iPhone to cart]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyCart()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="verifyCart" duration-ms="25322" started-at="2020-06-22T15:26:35Z" finished-at="2020-06-22T15:27:00Z">
+        <test-method status="PASS" signature="verifyCart()[pri:0, instance:verifyCartFunctionality.VerifyCart@51565ec2]" name="verifyCart" duration-ms="29615" started-at="2020-06-23T14:00:06Z" finished-at="2020-06-23T14:00:35Z">
           <reporter-output>
             <line>
               <![CDATA[Navigating to Desktops....]]>
@@ -163,7 +163,7 @@ Addding iPhone to cart]]>
             </line>
           </reporter-output>
         </test-method> <!-- verifyCart -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@482f8f11]" name="afterMethod" is-config="true" duration-ms="180" started-at="2020-06-22T15:27:00Z" finished-at="2020-06-22T15:27:01Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:verifyCartFunctionality.VerifyCart@51565ec2]" name="afterMethod" is-config="true" duration-ms="234" started-at="2020-06-23T14:00:35Z" finished-at="2020-06-23T14:00:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
